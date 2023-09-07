@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AnjanaPrakash007
+"""AMAZE YOURSELF"""
 - 👀 I’m interested in  Learning New Things
 - 🌱 I’m currently learning Django,Python,Js,Html,css
 - 💞️ I’m looking to collaborate on ...
